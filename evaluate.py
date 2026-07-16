@@ -1,6 +1,4 @@
-"""
-Evaluation metrics for dimensionality reduction quality.
-"""
+#Evaluation metrics for dimensionality reduction quality.
 
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
